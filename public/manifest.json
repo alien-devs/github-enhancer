@@ -12,5 +12,11 @@
 		"48": "logo192.png",
 		"128": "logo192.png"
 	},
-	"optional_permissions": ["<all_urls>"]
+	"optional_permissions": ["<all_urls>"],
+	"content_scripts": [
+		{
+			"css": ["index.css"],
+			"matches": ["https://github.com/*"]
+		}
+	]
 }
