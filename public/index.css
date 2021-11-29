@@ -1,3 +1,19 @@
+/* blue */
+/* .ContributionCalendar-day[data-level='4'] {
+	fill: #59C7C8!important;
+}
+.ContributionCalendar-day[data-level='3'] {
+	fill: #01AFB0!important;
+}
+.ContributionCalendar-day[data-level='2'] {
+	fill: #00a3a3!important;
+}
+.ContributionCalendar-day[data-level='1'] {
+	fill: #017374!important;
+} */
+
+
+/* hallween */
 .ContributionCalendar-day[data-level='1'] {
 	fill: #631c03!important;
 }
