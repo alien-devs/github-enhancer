@@ -1,4 +1,4 @@
-.ContributionCalendar-day[data-level='1'] {
+/* .ContributionCalendar-day[data-level='1'] {
 	fill: #631c03!important;
 }
 .ContributionCalendar-day[data-level='2'] {
@@ -9,10 +9,23 @@
 }
 .ContributionCalendar-day[data-level='4'] {
 	fill: #fddf68!important;
-}
-
+} */
 
 /* .ContributionCalendar-day[data-level='1'] {
+	fill: rgb(243,123,112)!important;
+}
+.ContributionCalendar-day[data-level='2'] {
+	fill: rgb(237,28,36)!important;
+}
+.ContributionCalendar-day[data-level='3'] {
+	fill: rgb(186,18,25)!important;
+}
+.ContributionCalendar-day[data-level='4'] {
+	fill: rgb(146,5,7)!important;
+} */
+
+
+.ContributionCalendar-day[data-level='1'] {
 	fill: #59C7C8!important;
 }
 .ContributionCalendar-day[data-level='2'] {
@@ -23,4 +36,4 @@
 }
 .ContributionCalendar-day[data-level='4'] {
 	fill: #017374!important;
-} */
+}
