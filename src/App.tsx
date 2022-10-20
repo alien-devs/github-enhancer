@@ -5,7 +5,7 @@ import ThemeChanger from './components/ThemeChanger'
 function App() {
     return (
         <div className="App">
-            <h1 className="title">Gisefub Enhancer</h1>
+            <h1 className="title">GitHub Enhancer</h1>
             <ThemeChanger />
         </div>
     )
